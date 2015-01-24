@@ -5,7 +5,7 @@ Default ruhoh theme based on twitter bootstrap.
 
 Compatible with ruhohSpec (Directory API) v1.0
 
-<http://ruhoh.com> for more information.
+<http://dear.desi> for more information.
 
 License 
 ========
